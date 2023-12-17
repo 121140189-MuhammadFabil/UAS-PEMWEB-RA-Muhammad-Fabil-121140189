@@ -146,7 +146,9 @@ Bonus 3. kita dapat memastikan keaman web dengan melakukan hal berikut:
 Bonus 4. 
 
 a. untuk database menggunakan extension MySQLi pada MySQL
+
 b. menggunakan htaccess
+
 c. pengelolaan sesi menggunakan php
 
 
